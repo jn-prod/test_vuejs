@@ -1,4 +1,11 @@
-# hello-world
+# lm-test_2
+
+## Presentation
+
+This a tabulation app which display a random elephant when you select a new tab.
+The App component is the main coponent. It contain 2 component: TabsHeader and TabContent.
+You can configure the number of tabs in TabHeader component. 
+In the mobile view the TabCoponent become a dropdown menu.
 
 ## Project setup
 ```
@@ -13,11 +20,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
 ```
 
 ### Lints and fixes files
